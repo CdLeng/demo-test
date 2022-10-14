@@ -6,3 +6,7 @@ Dit is maar een testje!
 
 Watch tutorial on Youtube.
 New line.
+
+## Local development
+
+1. Open index.html in your browser.
